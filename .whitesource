@@ -1,0 +1,9 @@
+{
+  "settingsInheritedFrom": "Gal-Doron/whitesource-config@main",
+  "remediateSettings": {
+  "workflowRules": {
+      "enabled": true
+    },
+    "enableRenovate": true
+  }
+}
